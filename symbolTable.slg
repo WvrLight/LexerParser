@@ -1,0 +1,16 @@
+<TOKEN>   						<TYPE>
+ITAKDA    						key_word
+_num      						identifier
+30        						integer
+ITAKDA    						key_word
+_TEST     						identifier
+"test"    						string
+ITAKDA    						key_word
+_char     						identifier
+'c'       						character
+num       						reserved_word
+UNA       						key_word
+(         						delimiter
+)         						delimiter
+{         						delimiter
+}         						delimiter
