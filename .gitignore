@@ -3,3 +3,5 @@ saliganLexer.o
 Saligan.layout
 test.sal
 saliganParser.o
+saliganLexicalAnalyzer.cpp
+saliganLexicalAnalyzerv2.cpp
