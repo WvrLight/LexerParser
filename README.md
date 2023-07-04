@@ -6,13 +6,7 @@ A sample input:
 ```c++
 -- Sample program
 <-
-Ami
-Macapagal
-Opina
-Rafal
-Ruffy
-Soriño
-Tolentino
+this is a comment
 ->
 ITAKDA _max 30
 
